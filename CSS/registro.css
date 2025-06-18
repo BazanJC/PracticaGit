@@ -21,7 +21,7 @@ body{
 .form{
     width: 400px;
     height: 600px;
-    background-color: black;
+    background-color: rgb(58, 152, 167);
     padding: 40px;
     border-radius: 10px;
     color: white;
